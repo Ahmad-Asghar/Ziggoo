@@ -1,0 +1,129 @@
+{
+  "project_info": {
+    "project_number": "900366210902",
+    "project_id": "ziggoo-ii",
+    "storage_bucket": "ziggoo-ii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900366210902:android:1464a2bc1bf7fc13fce8f7",
+        "android_client_info": {
+          "package_name": "com.ziggooII.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900366210902-a2cfthbgjmm16vk2v48i5sdt8j24vons.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ziggooII.app",
+            "certificate_hash": "24ffb2b8cf91acae1bd2b45a7321e6fa1c4e928b"
+          }
+        },
+        {
+          "client_id": "900366210902-lubtpluva61dos5jf08a72hkkqf3j0j5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ziggooII.app",
+            "certificate_hash": "7761c38950b7b54225d2343d587335ef14b36019"
+          }
+        },
+        {
+          "client_id": "900366210902-h2q2209ajhs9d0o7cfvd6olgh9i4227t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRBrYh7bz3j1FMQaR4MzjYsRH7Smxzv94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900366210902-h2q2209ajhs9d0o7cfvd6olgh9i4227t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900366210902:android:bc4055076abb498ffce8f7",
+        "android_client_info": {
+          "package_name": "com.ziggooII.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900366210902-71l4m0onf14f54c1d80ug5tlgpb4m3sg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ziggooII.rider",
+            "certificate_hash": "809154b1a8446018ac3f060e8a060b9924297332"
+          }
+        },
+        {
+          "client_id": "900366210902-mu8073t98jtstqd12iqino3pf4j6qrbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ziggooII.rider",
+            "certificate_hash": "24ffb2b8cf91acae1bd2b45a7321e6fa1c4e928b"
+          }
+        },
+        {
+          "client_id": "900366210902-h2q2209ajhs9d0o7cfvd6olgh9i4227t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRBrYh7bz3j1FMQaR4MzjYsRH7Smxzv94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900366210902-h2q2209ajhs9d0o7cfvd6olgh9i4227t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900366210902:android:ffe500c3cd584e83fce8f7",
+        "android_client_info": {
+          "package_name": "com.ziggooII.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900366210902-h2q2209ajhs9d0o7cfvd6olgh9i4227t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRBrYh7bz3j1FMQaR4MzjYsRH7Smxzv94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900366210902-h2q2209ajhs9d0o7cfvd6olgh9i4227t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
